@@ -1,1 +1,3 @@
 *.cdn.ubi.com
+static-dm.ubisoft.com
+patches.ubi.com
