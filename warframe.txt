@@ -1,1 +1,2 @@
 content.warframe.com
+origin.warframe.com
